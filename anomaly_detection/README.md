@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/hamzahanif2210/school-ai-lhc-tutorials/blob/main/anomaly_detection/unsupervised_learning_for_anomaly_detection_exercise.ipynb)
