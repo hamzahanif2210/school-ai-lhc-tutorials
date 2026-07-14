@@ -1,2 +1,1 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamzahanif2210/school-ai-lhc-tutorials/blob/main/transformers/part1_transformers_and_self_attention_exercise.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hamzahanif2210/school-ai-lhc-tutorials/main?labpath=transformers/part1_transformers_and_self_attention_exercise.ipynb)
